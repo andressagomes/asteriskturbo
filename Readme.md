@@ -1,7 +1,7 @@
 # Asterisk e FreePBX
 
-Asterisk 16
-FreePBX 15
+* Asterisk 16
+* FreePBX 15
 
 
 ## Váriaveis
