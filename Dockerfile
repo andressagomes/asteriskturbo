@@ -1,11 +1,11 @@
 #
-# Autor: Andressa Gomes (andressa.gomes@jbtec.com.br)
+# Autor: Andressa Gomes (andressarodrigues3@hotmail.com)
 # Data : 2019-09-24
 #
 
 FROM debian:9.0
 
-LABEL maintainer="Andressa Gomes (andressa.gomes@jbtec.com.br)"
+LABEL maintainer="Andressa Gomes (andressarodrigues3@hotmail.com)"
 
 VOLUME /var/www
 
